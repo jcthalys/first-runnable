@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/first-runnable.iml" filepath="$PROJECT_DIR$/.idea/modules/first-runnable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/first-runnable_main.iml" filepath="$PROJECT_DIR$/.idea/modules/first-runnable_main.iml" group="first-runnable" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/first-runnable_test.iml" filepath="$PROJECT_DIR$/.idea/modules/first-runnable_test.iml" group="first-runnable" />
+    </modules>
+  </component>
+</project>
